@@ -1,0 +1,14 @@
+layout_spectrum: 0.6674501346424222
+typography_spectrum: 0.18627505144104362
+color:
+  brandStrength: 0.5242335167713463
+  lightness: 0.9353965215850621
+  saturation: 0.3032193479593843
+  rhythmicContrast: 0.08672721590846777
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+name: Eartoobs
